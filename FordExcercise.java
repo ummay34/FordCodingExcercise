@@ -10,7 +10,7 @@ public class FordExcercise {
             //instantiate scanner
             Scanner inputScanner = new Scanner(System.in);
 
-
+            //If user enters a number
             if (inputScanner.hasNextInt()) {
 
                 //get number from the user
