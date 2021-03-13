@@ -5,7 +5,7 @@ public class FordExcercise {
     public static void main(String [] args) {
 
         while (true) {
-            System.out.println("Hello, please enter a string!" + "\nTo quit the program, enter 'q'");
+            System.out.println("Hello, please enter a number!" + "\nTo quit the program, enter 'q'");
 
             //instantiate scanner
             Scanner inputScanner = new Scanner(System.in);
